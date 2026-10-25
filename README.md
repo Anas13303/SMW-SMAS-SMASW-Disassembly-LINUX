@@ -1,6 +1,5 @@
 This is a fork of Yoshifanatic1's SMAS+W disassembly to allow Linux users to directly extract the SMAS+W ROM assets & assemble the standalone SMB3 ROM without using Wine or Bottles.
 
-
 **Only SMB3 can be fully assembled, not the whole SMAS+W or the other standalone games!** Support for the other game's batch files may come sometime in the future, but my shell scripting knowledge is personally very limited!
 If something doesn't work as intended, please lemme know!
 
