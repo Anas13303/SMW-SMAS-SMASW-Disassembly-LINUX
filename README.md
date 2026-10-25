@@ -1,5 +1,6 @@
 This is a fork of Yoshifanatic's SMAS+W disassembly to allow Linux users to directly extract the SMAS+W ROM assets & assemble the standalone SMB3 ROM without using Wine or Bottles.
 
+
 **Only SMB3 can be fully assembled, not the whole SMAS+W or the other standalone games!** Support for the other game's batch files may come sometime in the future, but my shell scripting knowledge is personally very limited!
 If something doesn't work as intended, please lemme know!
 
@@ -13,11 +14,7 @@ If something doesn't work as intended, please lemme know!
 7. Enjoy!
 
 **Special Thanks**
-
-Yoshifanantic1 for the original disassembly
-
-Sir Walrus from SnesLab (formerly Alcaro from SMW Central) for the main support and for the Asar executable
-
-meatloaf & MarioFanGamer from SnesLab (also from SMW Central) for the additional support
-
-**You** for benefitting from this disassembly!
+- Yoshifanantic1 for the original disassembly
+- Sir Walrus from SnesLab (formerly Alcaro from SMW Central) for the main support and for the Asar executable
+- meatloaf & MarioFanGamer from SnesLab (also from SMW Central) for the additional support
+- **You** for benefitting from this disassembly!
