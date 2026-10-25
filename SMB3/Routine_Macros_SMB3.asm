@@ -12715,31 +12715,31 @@ SMB3_LevelData_MiniGameIntro1_Level_Main:
 ;$219649
 	dl $000000
 	dl $000000
-	incbin "Levels/MinigameIntro1_Level.bin":6-
+	incbin "Levels/MiniGameIntro1_Level.bin":6-
 
 SMB3_LevelData_MiniGameIntro2_Level_Main:
 ;$219666
 	dl $000000
 	dl $000000
-	incbin "Levels/MinigameIntro2_Level.bin":6-
+	incbin "Levels/MiniGameIntro2_Level.bin":6-
 
 SMB3_LevelData_MiniGameIntro3_Level_Main:
 ;$219680
 	dl $000000
 	dl $000000
-	incbin "Levels/MinigameIntro3_Level.bin":6-
+	incbin "Levels/MiniGameIntro3_Level.bin":6-
 
 SMB3_LevelData_MiniGameIntro4_Level_Main:
 ;$21969D
 	dl $000000
 	dl $000000
-	incbin "Levels/MinigameIntro4_Level.bin":6-
+	incbin "Levels/MiniGameIntro4_Level.bin":6-
 
 SMB3_LevelData_MiniGameIntro5_Level_Main:
 ;$2196AB
 	dl $000000
 	dl $000000
-	incbin "Levels/MinigameIntro5_Level.bin":6-
+	incbin "Levels/MiniGameIntro5_Level.bin":6-
 
 ;--------------------------------------------------------------------
 
