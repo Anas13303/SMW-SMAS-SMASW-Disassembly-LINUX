@@ -15,6 +15,9 @@ If something doesn't work as intended, please lemme know!
 **Special Thanks**
 
 Yoshifanantic1 for the original disassembly
+
 Sir Walrus from SnesLab (formerly Alcaro from SMW Central) for the main support and for the Asar executable
+
 meatloaf & MarioFanGamer from SnesLab (also from SMW Central) for the additional support
+
 **You** for benefitting from this disassembly!
