@@ -58,6 +58,7 @@ echo Assembling $ROMNAME $ROMVer$ROMExt ... this may take a minute.
 echo
 
 $asarVer --fix-checksum=on --define GameID="$GAMDID" --define ROMID="$Input1" --define FileType=0 ../Global/AssembleFile.asm "$output"
+$asarVer --fix-checksum=on --define GameID="$GAMDID" --define ROMID="$Input1" --define FileType=255 ../Global/AssembleFile.asm "$output"
 
 echo Assembling SMAS SPC700 engine...
 $asarVer --define GameID="$GAMDID" --define ROMID="$Input1" --define FileType=4 --define PathToFile="../SMAS/SPC700/Engine.asm" ../Global/AssembleFile.asm ../SMAS/SPC700/Engine.bin
